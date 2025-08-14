@@ -12,4 +12,3 @@ $ ssh-add -l
 $ ssh -T git@github.com
 Hi labjebbane! You've successfully authenticated, but GitHub does not provide shell access.
 
-
